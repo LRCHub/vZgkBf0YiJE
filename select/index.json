@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "スリル",
+  "base_artist": "Hotei",
+  "createdAt": "2026-02-20T13:01:17.105556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "BAND‐MAID®",
+      "has_synced": true,
+      "path": "select/01_スリル_BAND‐MAID®.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "いとうかなこ",
+      "has_synced": false,
+      "path": "select/02_スリル_いとうかなこ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "彼って スリル",
+      "artist": "早見 優",
+      "has_synced": false,
+      "path": "select/03_彼って_スリル_早見_優.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "彼って スリル",
+      "artist": "早見優",
+      "has_synced": false,
+      "path": "select/04_彼って_スリル_早見優.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/05_スリル_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スリル - Thrill",
+      "artist": "Hotei",
+      "has_synced": true,
+      "path": "select/06_スリル_-_Thrill_Hotei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "布袋寅泰",
+      "has_synced": true,
+      "path": "select/07_スリル_布袋寅泰.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "Hotei, Tomoyasu",
+      "has_synced": true,
+      "path": "select/08_スリル_Hotei,_Tomoyasu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "Good Tears",
+      "has_synced": true,
+      "path": "select/09_スリル_Good_Tears.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thrill(スリル)",
+      "artist": "BAND-MAID",
+      "has_synced": false,
+      "path": "select/10_Thrill(スリル)_BAND-MAID.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スリル - 2016 Remastered",
+      "artist": "HOTEI",
+      "has_synced": true,
+      "path": "select/11_スリル_-_2016_Remastered_HOTEI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スリル",
+      "artist": "HOTEI",
+      "has_synced": true,
+      "path": "select/12_スリル_HOTEI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_01_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_02_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_03_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_04_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_05_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_06_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_07_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_08_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "スリル",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_09_スリル_布袋_寅泰.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "スリル (Live)",
+      "artist": "布袋 寅泰",
+      "has_synced": false,
+      "path": "select/pl_10_スリル_(Live)_布袋_寅泰.txt"
+    }
+  ]
+}
